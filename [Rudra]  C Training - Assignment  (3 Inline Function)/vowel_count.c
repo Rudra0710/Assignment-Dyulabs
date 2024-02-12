@@ -16,7 +16,7 @@
     printf("Time taken: %f seconds\n", time_taken);
 
     return 0;
-}
+ }
 
 int count_vowels(char *str) {
     int vowels = 0;
